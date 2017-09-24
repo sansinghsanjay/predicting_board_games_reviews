@@ -1,7 +1,7 @@
 # Predicting Board Games Reviews
 
 ## Introduction
-Its a simple Machine Learning project using Linear Regression to find the "average_rating" for a given data set.
+Its a simple Machine Learning project using Linear Regression to find the "average_rating" for a given board game.
 
 ## Data Set
 1. Rows: 83000
