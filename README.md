@@ -1,7 +1,12 @@
 # Predicting Board Games Reviews
 
 ## Introduction
-Its a simple Machine Learning project using Linear Regression to find the "average_rating" for a given data set. We have total 83K records with 20 features. After analysing those 20 features, I choosed 2 features "average_weight" and "minage" because of their good correlation values.
+Its a simple Machine Learning project using Linear Regression to find the "average_rating" for a given data set.
+
+## Data Set
+1. Rows: 83000
+2. Columns: 20 (features)
+3. After analysing given 20 features, I choosed 2 features "average_weight" and "minage" because of their good correlation values.
 
 ## Programminig Language
 Python is used here with libraries: 
